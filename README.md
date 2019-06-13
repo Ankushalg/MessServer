@@ -22,7 +22,7 @@ Setiing Up Android Server:
 
 Setting Up your Web App:
 
-Check Web Example to implement this in your app.
+Check Web Example to implement this in your app. Please Use the mobile number with country code. (Example 91 for India)
 
 
 ### Applications: 
