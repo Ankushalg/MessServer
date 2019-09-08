@@ -29,7 +29,15 @@ Check Web Example to implement this in your app. Please Use the mobile number wi
 
 1. You can use your own mobile number to send SMS.
 2. You don't need to pay extra charges for any APIs.
+3. You can also use this for sending automated messages like greeting messages, OTPs (One Time Passwords), alert messages, and many more.
+4. Your server is portable. You can carry your server with you.
 
 ### Author:
 
 Devloped by Ankush Kumar (@ankushalg).
+
+### About Us:
+
+Devloper: Ankush Kumar
+Contect Email: ankushalg@gmail.com
+
