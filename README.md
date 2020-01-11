@@ -39,10 +39,10 @@ https://github.com/Ankushalg/MessServerAndroid
 
 ### Author:
 
-Devloped by Ankush Kumar (@ankushalg).
+Developed by Ankush Kumar (@ankushalg).
 
 ### About Us:
 
-Devloper: Ankush Kumar
+Developer: Ankush Kumar
 Contect Email: ankushalg@gmail.com
 
