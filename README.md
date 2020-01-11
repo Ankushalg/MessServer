@@ -24,10 +24,8 @@ Setting Up your Web App:
 
 Check Web Example to implement this in your app. Please Use the mobile number with country code. (Example 91 for India)
 
-### Android App Source Code:
+ 
 
-Andriod App Source Code is Avaialble Here: 
-https://github.com/Ankushalg/MessServerAndroid
 
 
 ### Applications: 
